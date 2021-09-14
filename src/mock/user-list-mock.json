@@ -1,0 +1,33 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "currency": "INR",
+                "country": "India",
+                "preferredPaymentType": "UPI"
+
+            },
+            {
+                "id": 2,
+                "name": "priya",
+                "email": "priya@gmail.com",
+                "currency": "USD",
+                "country": "America",
+                "preferredPaymentType": "Credit Card"
+            },
+            {
+                "id": 3,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "currency": "USD",
+                "country": "London",
+                "preferredPaymentType": "Internet Banking"
+            }
+        ]
+    }
+}

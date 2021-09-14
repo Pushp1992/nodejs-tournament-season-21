@@ -1,0 +1,64 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "categoryList": {
+            "seniorCitizenFund": [
+                {
+                    "id": 1,
+                    "fundType": "well being",
+                    "ageGroup": "60-70"
+                },
+                {
+                    "id": 2,
+                    "fundType": "rehabilitation",
+                    "ageGroup": "70+"
+                }
+            ],
+            "CovidEmergencyFund": [
+                {
+                    "id": 1,
+                    "fundType": "treatment",
+                    "ageGroup": "60-70"
+                },
+                {
+                    "id": 2,
+                    "fundType": "prevention",
+                    "ageGroup": "60-70"
+                },
+                {
+                    "id": 3,
+                    "fundType": "treatment",
+                    "ageGroup": "70+"
+                },
+                {
+                    "id": 4,
+                    "fundType": "prevention",
+                    "ageGroup": "70+"
+                }
+            ],
+            "welfareProgram": [
+                {
+                    "id": 1,
+                    "fundType": "homestay",
+                    "ageGroup": "60-70"
+                },
+                {
+                    "id": 2,
+                    "fundType": "food",
+                    "ageGroup": "60-70"
+                },
+                {
+                    "id": 3,
+                    "fundType": "homestay",
+                    "ageGroup": "70+"
+                },
+                {
+                    "id": 4,
+                    "fundType": "food",
+                    "ageGroup": "70+"
+                }
+            ]
+        }
+    }
+}
